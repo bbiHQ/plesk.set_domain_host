@@ -1,5 +1,5 @@
-DEPLOYMENT & DEPLOYMENT
-=======================
+DEPLOYMENT & USAGE
+==================
 1. Put script at /usr/local/psa/admin/plib/modules/set_domain_host.sh
 2. chmod +x /usr/local/psa/admin/plib/modules/set_domain_host.sh
 3. New Event: Hosting settings created
